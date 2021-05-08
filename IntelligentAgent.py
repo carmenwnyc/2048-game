@@ -1,3 +1,7 @@
+"""
+Author: Carmen Wu
+"""
+
 import random
 from BaseAI import BaseAI
 from Grid import Grid
