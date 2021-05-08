@@ -21,5 +21,5 @@
 
 ## Run The Program
 ```
-$python3 GameManager.py
+python3 GameManager.py
 ```
