@@ -13,7 +13,7 @@
 2. https://en.wikipedia.org/wiki/Expectiminimax
 
 ## Heuristics
-* monotonicity heuristics
+* Monotonicity heuristics
   1. Reference: http://cs229.stanford.edu/proj2016/report/NieHouAn-AIPlays2048-report.pdf
 * Smoothness heuristic, which measures the difference between neighboring tiles and tries to minimize this count
   1. Reference: https://github.com/ronzil/2048-AI/blob/master/js/grid.js
