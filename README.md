@@ -18,3 +18,8 @@
 * Smoothness heuristic, which measures the difference between neighboring tiles and tries to minimize this count
   1. Reference: https://github.com/ronzil/2048-AI/blob/master/js/grid.js
 * Heuristics that measures the number of mergable cells and empty cells in the whole board
+
+## Run The Program
+```
+$python3 GameManager.py
+```
